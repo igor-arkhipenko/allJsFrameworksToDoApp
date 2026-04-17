@@ -1,7 +1,6 @@
-# allJsFrameworksToDoApp
-Todo App: 
-- VanillaJS, 
-- React, 
-- Angular, 
-- Vue, 
-- Svelte.
+# TodoApp realization for all actual js-frameworks
+- VanillaJS
+- React
+- Angular
+- Vue
+- Svelte
